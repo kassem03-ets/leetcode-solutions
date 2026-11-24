@@ -33,4 +33,8 @@ My LeetCode solutions in C# | Data Structures &amp; Algorithms |
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kassem03-ets/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/kassem03-ets/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
